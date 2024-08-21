@@ -12,4 +12,6 @@ Stock Predict 1 Day and Stock Prediction 5 Days - These are practically the same
 
 nyc-airbnb-2019-data-exploration.ipynb - This is my data exploration into the dataset given on Kaggle. The code appears on here but to view the outputs including my interactive map, please see the Kaggle notebook here: https://www.kaggle.com/markeverett/nyc-airbnb-2019-data-exploration
 
+NB_Modular folder is a mini project looking at the temperatures of an Electric Motor and modularising the code to make a business friendly notebook as well as a backend developer/data scientist notebook.
+
 Thank you!!
